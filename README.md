@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou Gustavo Gomes Nobre, engenheiro de software no Brasil. Minha stack reúne tecnologias para desenvolvimento web e mobile, além de ferramentas para trabalhar com dados e versionamento de código.
+Me chamo Lúcio Benfica e sou Analista de Dados (mas não apenas isso). Minha stack reúne tecnologias para desenvolvimento web e mobile, além de ferramentas para trabalhar com dados e versionamento de código.
 
 - **Web:** TypeScript, JavaScript, Next.js e NestJS.
 - **Mobile:** Flutter.
