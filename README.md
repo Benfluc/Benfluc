@@ -8,7 +8,7 @@
   <a href="http://lattes.cnpq.br/1019898401725586">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-7AA2F7?style=for-the-badge&logoColor=white" alt="Acessar meu Currículo Lattes" />
   </a>
-  <a href="https://www.linkedin.com/in/lúcio-j-benfica/">
+  <a href="www.linkedin.com/in/lúcio-j-benfica-6903a3103">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Acessar meu LinkedIn" />
   </a>
   <a href="mailto:luciojuniobenfica2@gmail.com">
