@@ -33,13 +33,8 @@ Me chamo Lúcio Benfica e sou Analista de Dados (mas não apenas isso). Minha st
 
 ## Minhas contribuições em movimento
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man percorrendo meu calendário de contribuições no GitHub" src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavognobre.gustavognobre" alt="Contador de visitas ao perfil" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Benfluc.Benfluc" alt="Contador de visitas ao perfil" />
 </p>
 
