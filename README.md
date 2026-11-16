@@ -8,7 +8,7 @@
   <a href="http://lattes.cnpq.br/1019898401725586">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-7AA2F7?style=for-the-badge&logoColor=white" alt="Acessar meu Currículo Lattes" />
   </a>
-  <a href="www.linkedin.com/in/lúcio-j-benfica-6903a3103">
+  <a href="https://www.linkedin.com/in/l%C3%BAcio-j-benfica-6903a3103">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Acessar meu LinkedIn" />
   </a>
   <a href="mailto:luciojuniobenfica2@gmail.com">
@@ -18,17 +18,17 @@
 
 ## Sobre mim
 
-Me chamo Lúcio Benfica e sou Analista de Dados (mas não apenas isso). Minha stack reúne tecnologias para desenvolvimento web e mobile, além de ferramentas para trabalhar com dados e versionamento de código.
+Me chamo Lúcio Benfica e sou Analista de Dados (mas não apenas isso). Minha stack reúne ferramentas de análise e ciência de dados, desenvolvimento web e automação de pipelines.
 
-- **Web:** TypeScript, JavaScript, Next.js e NestJS.
-- **Mobile:** Flutter.
-- **Dados e ferramentas:** Python, MySQL, Git e GitHub.
+- **Dados:** Python (pandas, NumPy, scikit-learn, Matplotlib), Jupyter Notebook, SQL e PostgreSQL.
+- **Web:** TypeScript, JavaScript, React, Vite e Tailwind CSS; Node.js e Express no back-end.
+- **Infraestrutura e ferramentas:** Supabase, Vercel, GitHub Actions, Git e GitHub.
 - **Trajetória acadêmica:** disponível no meu [Currículo Lattes](http://lattes.cnpq.br/1019898401725586).
 
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,py,mysql,flutter,git,github&theme=dark&perline=5" alt="Tecnologias: TypeScript, JavaScript, Next.js, NestJS, Python, MySQL, Flutter, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,postgres,supabase,ts,js,react,vite,tailwind,nodejs,express,vercel,githubactions,git&theme=dark&perline=7" alt="Tecnologias: Python, scikit-learn, PostgreSQL, Supabase, TypeScript, JavaScript, React, Vite, Tailwind CSS, Node.js, Express, Vercel, GitHub Actions e Git" />
 </p>
 
 ## Minhas contribuições em movimento
