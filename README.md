@@ -33,6 +33,13 @@ Me chamo Lúcio Benfica e sou Analista de Dados (mas não apenas isso). Minha st
 
 ## Minhas contribuições em movimento
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benfluc/Benfluc/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Benfluc/Benfluc/output/github-snake.svg" alt="Animação de uma cobrinha percorrendo o gráfico de contribuições do GitHub" />
+  </picture>
+</p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Benfluc.Benfluc" alt="Contador de visitas ao perfil" />
